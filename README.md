@@ -12,4 +12,4 @@ https://user-images.githubusercontent.com/78831160/128950187-95217c25-3365-4f1a-
 
 
 
-Note: This project was done as the part the course Reinfircement learning and optimal control for robotics and the quadrotor.py file was given by Professor Ludovic Righetti who taught the class.
+Note: This project was done as the part the course Reinforcement learning and optimal control for robotics. The quadrotor.py which describes the dynamics was given by Professor Ludovic Righetti as a part of the class.
