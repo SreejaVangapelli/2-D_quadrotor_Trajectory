@@ -1,5 +1,5 @@
 # 2D quadrotor following a circular trajectory
-This project implements an algorithm for a 2D quadrotor to follow a circular trajectory. The LQ controllers were designed using linearized version of the dynamics of the quadrotor.
+This project implements an algorithm, for a 2D quadrotor to follow a circular trajectory. The LQ controllers were designed using linearized version of the dynamics of the quadrotor.
 
 The following is the simulation of the implemented algorithm with and without disturbances:
 
